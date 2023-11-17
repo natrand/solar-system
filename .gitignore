@@ -1,0 +1,7 @@
+*.dll
+\x64
+solasystem\x64
+solasystem\solasystem.vcxproj
+solasystem\solasystem.vcxproj.filters
+solasystem\solasystem.vcxproj.user
+solasystem.sln
