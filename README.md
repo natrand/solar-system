@@ -17,4 +17,4 @@ Before running the program, ensure you have the following prerequisites installe
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/natrand/solar_system.git
+   git clone https://github.com/natrand/solar-system.git
